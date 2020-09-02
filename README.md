@@ -22,3 +22,12 @@ Use Python and SQLAlchemy to do basic climate analysis and data exploration of y
 ![sql](sql2.png)
 ![sql](sql3.png)
 ![sql](sql4.png)
+
+## Step 2 - Hawaii Climate App (Flask API)
+Design a Flask API based on the queries that have been developed.
+
+Use FLASK to create the routes
+Routes
+/api/v1.0/precipitation
+Convert the Query Results to a Dictionary Using date as the Key and prcp as the Value
+Return the JSON representation of the dictionary
