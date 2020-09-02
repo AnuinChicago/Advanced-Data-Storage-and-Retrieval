@@ -31,3 +31,12 @@ Routes
 /api/v1.0/precipitation
 Convert the Query Results to a Dictionary Using date as the Key and prcp as the Value
 Return the JSON representation of the dictionary
+![img](Precipitation_api.png)
+/api/v1.0/stations
+Return a JSON list of stations from the dataset
+![img](Stations_api.png)
+/api/v1.0/tob- /api/v1.0/ and /api/v1.0//
+Return a JSON list of the minimum temperature, the average temperature and the max temperature for a given start or start-end range
+When given the start only, calculate TMIN, TAVG, and TMAX for all dates greater than and equal to the start date
+When given the start and the end date, calculate the TMIN, TAVG, and TMAX for dates between the start and end date inclusive
+![img](start_end_day_api.png)
