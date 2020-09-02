@@ -12,3 +12,4 @@ In this step, SQLAlchemy is used to access the sqlite database (hawaii.sqlite) a
 
 Next step is to create a weather API to do a climate analysis based on the data that was stored in the SQLite database. Using pandas dataframe. The weather data was analysed using SQLAlchemy queries and Pandas to create data frames and plotted graphs using Matplotlib.
 ![sql](sql1.png)
+![sql](sql2.png)
