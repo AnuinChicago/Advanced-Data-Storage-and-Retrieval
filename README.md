@@ -14,3 +14,4 @@ Next step is to create a weather API to do a climate analysis based on the data 
 ![sql](sql1.png)
 ![sql](sql2.png)
 ![sql](sql3.png)
+![sql](sql4.png)
