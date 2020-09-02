@@ -11,4 +11,4 @@ The first step is to clean the data using Pandas notebook by removing any NAN va
 In this step, SQLAlchemy is used to access the sqlite database (hawaii.sqlite) available in the Resources folder. The two csv files hold the same data from the SQL database tables.
 
 Next step is to create a weather API to do a climate analysis based on the data that was stored in the SQLite database. Using pandas dataframe. The weather data was analysed using SQLAlchemy queries and Pandas to create data frames and plotted graphs using Matplotlib.
-
+![sql](sql1.png)
